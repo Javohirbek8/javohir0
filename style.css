@@ -1,0 +1,76 @@
+ * {
+     padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+     font-family: sans-serif;
+     
+ }
+
+ body {
+     background: rgb(255, 255, 255);
+     height: 100vh;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     
+ }
+
+ form {
+     padding: 90px 120px;
+     border-radius: 50px;
+     background: #ffffff;
+     display: flex;
+     flex-direction: column;
+     gap: 30px;
+     background-image: url(./Screenshot\ 2023-11-10\ 172155.png);
+ }
+
+ form input,
+ form button {
+     padding: 10px 10px;
+     border: 1px solid teal;
+     border-radius: 10px;
+ }
+
+ form button {
+     background: rgb(46, 50, 255);
+     color: #fff;
+ }
+
+ h1 {
+     color: black;
+ }
+
+
+ label {
+     display: flex;
+     justify-content: space-around;
+     background: rgb(238, 128, 227);
+     border-radius: 50px;
+     padding: 10px;
+     margin: 2px;
+     color: blueviolet;
+ }
+
+ a{
+    color: inherit;
+ }
+
+ header{
+    height: 70px;
+    width: 1488px;
+    color: #000000;
+    padding: 34px;
+    margin: 56px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+ }
+img{
+    width: 600px;
+    height: 1000px;
+}
+ 
+
+
